@@ -1,0 +1,1 @@
+let groceryList = ['Arroz', 'Feijão', 'Alface', 'Melancia']; for (let a = 0; a <= groceryList.length; a ++) {console.log(groceryList[a])}

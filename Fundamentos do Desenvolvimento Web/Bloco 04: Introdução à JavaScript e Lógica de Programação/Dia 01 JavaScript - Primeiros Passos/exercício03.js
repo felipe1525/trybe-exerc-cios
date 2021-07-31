@@ -1,0 +1,1 @@
+let notaDaPessoa = 50;  if (notaDaPessoa >= 80) {console.log("Parabéns, você foi aprovado")} else {console.log("Você foi reprovada(o)")}

@@ -1,0 +1,2 @@
+let candidato = "aprovada"; switch (candidato) {case "aprovada": console.log("Parabéns, você foi aprovada!");break; case "reprovada": console.log("Você foi reprovada"); break;   
+case "lista": console.log("Você está na nossa lista de espera"); break; default: 'não se aplica' }
